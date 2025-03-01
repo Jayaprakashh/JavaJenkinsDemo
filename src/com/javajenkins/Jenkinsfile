@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-repo/DemoJavaProject.git'  // Update with your GitHub repo
+                git 'https://github.com/Jayaprakashh/JavaJenkinsDemo.git'  // Update with your GitHub repo
             }
         }
 
